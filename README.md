@@ -3,6 +3,7 @@ Criação de uma fonte de tensão ajustável como trabalho para a disciplina Ele
 
 
 | Componentes | Quantidade | Valor unitário (R$) |
+|:-----|:--------:|------:|
 | Resistor 4K7 | 10 | 0,07 |
 | Resistor 1K | 10 | 0,07 |
 | Resistor 120R | 10 | 0,07 |
