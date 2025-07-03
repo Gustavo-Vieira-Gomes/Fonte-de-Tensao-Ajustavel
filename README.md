@@ -14,3 +14,5 @@ Criação de uma fonte de tensão ajustável como trabalho para a disciplina Ele
 | Diodo Zener 13V 1/2W | 1 | 0,40 |
 | Ponte Retificadora | 1 | 3,90 |
 | LED | 1 | 0,40 |
+
+![Alt text](https://drive.google.com/file/d/1aRG2m2T-GFZGYjC53su0-DhNs_sDIKex/view?usp=drive_link)
