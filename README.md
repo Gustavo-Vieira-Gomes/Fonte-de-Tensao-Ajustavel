@@ -1,4 +1,4 @@
-# Fonte de Tensão Ajustável:
+# Fonte de Tensão Ajustável (3V - 12V):
 
 # Objetivo do Projeto:
 
@@ -22,13 +22,6 @@ A proposta inclui não apenas a conversão de AC para DC, mas também a regulaç
 | LED | 1 | 0,40 |
 
 <br>
-
-# Objetivo do Projeto:
-
-O objetivo principal deste trabalho é desenvolver uma fonte de alimentação ajustável, montada em protoboard, capaz de converter a corrente alternada (AC) proveniente da rede elétrica doméstica — com tensão média de 127V — em corrente contínua (DC), com tensão ajustável entre 3V e 12V, sendo 12V o valor máximo.
-
-A proposta inclui não apenas a conversão de AC para DC, mas também a regulação e estabilização da tensão de saída, garantindo que a corrente fornecida aos dispositivos conectados seja segura e adequada. Para isso, o circuito incorpora componentes como transformador, ponte retificadora, capacitor, diodo Zener, transistor, potenciômetro e resistores, cada um com funções específicas no controle e na qualidade da tensão final.
-
 <br>
 
 # Descrição e função dos componentes da Fonte Ajustável no Protoboard:
@@ -54,7 +47,12 @@ O transistor funciona como um amplificador de corrente ou um comutador. Neste ci
 Ponte Retificadora (Ponte de Diodos):
 A ponte de diodos converte a corrente alternada (AC) proveniente do transformador em corrente contínua (DC), mesmo com a inversão periódica do ciclo da AC. Esse processo de retificação gera uma queda de tensão de aproximadamente 1,4V (0,7V por diodo em cada ciclo), resultando em uma tensão de saída de cerca de 22,6V a partir dos 24V iniciais do transformador.
 <br>
+<br>
 
+# Projeto:
+foto
+<br>
+<br>
 
 # Fonte Ajustável no Simulador:
 
@@ -62,17 +60,25 @@ A ponte de diodos converte a corrente alternada (AC) proveniente do transformado
 
 Link para o Falstad: https://tinyurl.com/26hy6e8r
 <br>
+<br>
 
 
 # PCB da Fonte:
 
 ![Alt text](./Eagle.jfif)
 <br>
+<br>
 
 # Cálculos:
 
 ![Alt text](./Cálculos.png)
 
+<br>
+<br>
+
+# Vídeo do Projeto:
+vídeo
+<br>
 <br>
 
 # Alunos:
