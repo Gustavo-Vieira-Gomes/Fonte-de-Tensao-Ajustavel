@@ -15,22 +15,32 @@ Criação de uma fonte de tensão ajustável como trabalho para a disciplina Ele
 | Ponte Retificadora | 1 | 3,90 |
 | LED | 1 | 0,40 |
 
+<br>
+<br>
+<br>
 
-
-Fonte Ajustável no Simulador:
+# Fonte Ajustável no Simulador:
 
 ![Alt text](./Falstad.png)
 
 Link para o Falstad: https://tinyurl.com/26hy6e8r
+<br>
+<br>
+<br>
 
 
-
-PCB da Fonte:
+# PCB da Fonte:
 
 ![Alt text](./Eagle.jfif)
+<br>
+<br>
+<br>
 
 
-
-Cálculos:
+# Cálculos:
 
 ![Alt text](./Cálculos.png)
+
+<br>
+<br>
+<br>
