@@ -77,7 +77,7 @@ Link para o Falstad: https://tinyurl.com/26hy6e8r
 <br>
 
 # Vídeo do Projeto:
-vídeo
+https://youtube.com/shorts/I2xuXYgYGHU?feature=share
 <br>
 <br>
 
@@ -103,7 +103,7 @@ O objetivo do trabalho era utilizar um sensor ultrassônico para detectar a pres
 <br>
 
 # Vídeo do Projeto
-
+https://youtube.com/shorts/WPJaGv6oAQE?feature=share
 
 # Alunos:
 
