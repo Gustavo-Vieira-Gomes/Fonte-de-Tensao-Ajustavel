@@ -50,7 +50,7 @@ A ponte de diodos converte a corrente alternada (AC) proveniente do transformado
 <br>
 
 # Projeto:
-foto
+![Alt text](./fonte-de-tensao-ajustavel.jpg)
 <br>
 <br>
 
@@ -99,7 +99,7 @@ O objetivo do trabalho era utilizar um sensor ultrassônico para detectar a pres
 | Placa Arduino Uno | 1 | 52,40 |
 
 # Projeto
-
+![Alt text](./arma-de-agua-com-arduino.jpg)
 <br>
 
 # Vídeo do Projeto
