@@ -97,6 +97,8 @@ O objetivo do trabalho era utilizar um sensor ultrassônico para detectar a pres
 | Relé 5V | 1 | 5,7 |
 | Diodo | 2 | 0,7 |
 | Placa Arduino Uno | 1 | 52,40 |
+| Sensor Ultrassom | 1 | 16,00 |
+| Bomba de Água 3 a 6V | 1 | 20,00 |
 
 # Projeto
 ![Alt text](./arma-de-agua-com-arduino.jpg)
