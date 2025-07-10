@@ -79,7 +79,9 @@ Link para o Falstad: https://tinyurl.com/26hy6e8r
 # Vídeo do Projeto:
 https://youtube.com/shorts/I2xuXYgYGHU?feature=share
 <br>
-<br>
+
+# Vídeo da explicação dos componentes do projeto
+https://youtube.com/shorts/Sea4N_lYAlo?feature=share
 
 # Alunos:
 
